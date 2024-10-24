@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+.profile { 
+    border-radius: 0%;
+    width: 500px;
+    height: 500px;
+}
+#inicio {
+    bottom:0;
+    background:linear-gradient(black 0%, white 100%);
+}
+#futebol {
+    background:linear-gradient(white 100%);
+}
+#jogosdodia {
+    background:linear-gradient( white 10%, #3b8bcc 90%);
+}
+#nba_nbb_europeu {
+    background:linear-gradient( #3b8bcc 10%, white 90%);
+}
+#volei {
+    background:linear-gradient( white 10%, #3b8bcc 90%);
+}
+#formula1 {
+    background:linear-gradient( #3b8bcc 0%, white 100%);
+}
+#sobreosite {
+    background:linear-gradient( white 0%, #3b8bcc 100%);
+}
+#j {
+    font-size: 70px;
+    font-weight: 300;
+    font-family:'Courier New', Courier, monospace;
+    color:black;
+}
+#h {
+    font-size: 70px;
+    font-weight: 300px;
+    font-family:'Courier New', Courier, monospace;
+    color:black;
+}
+.parallax-inner {
+    vertical-align: middle;
+}
+#k {
+    font-size: 50px;
+    font-weight: 10;
+    font-family:'Lucida Sans';
+    color:#4169E1;
+    display: inline;
+    padding: bottom 70px;
+}
+.myNavbar {
+    position:sticky;
+    top:0;
+    z-index:9;
+}
+.nb {
+    border-radius: 0%;
+    width: 1000px;
+    height: 500px;
+}
+.ft {
+    border-radius: 0%;
+    width: 1200px;
+    height: 700px;
+}
+#tempo {
+    font-size: 100px;
+    font-weight: 300;
+    font-family:'Courier New', Courier, monospace;
+    color:white;
+}
+.links {
+    display: inline;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 20px;
+}
+.links:hover {
+    font-size: 30px;
+}
+#sobreosite {
+    background:blanchedalmond;
+}
+#sobreosite iframe {
+    width:80%;
+    height:75%;
+}
+.sobreosite_k {
+    display: inline;
+    padding: bottom 30px;
+}
+.f1{
+    border-radius: 25%;
+}
+.ft{
+    border-radius: 25%;
+}
+.nb{
+    border-radius: 25%;
+}
